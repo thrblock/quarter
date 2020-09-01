@@ -7,7 +7,7 @@
 ## 分形(?)
 这个样例将正方形内切圆按田字等分为四个子结构，直到触达最小宽度限制；
 
-使用了一张底图，并填充圆形的颜色，使之逼近地图的图形结构；
+使用了一张底图，并填充圆形的颜色，使之逼近低图的图形结构；
 
 ![Quarter](https://raw.githubusercontent.com/thrblock/quarter/master/demo.gif)
 
