@@ -11,6 +11,10 @@
 
 ![Quarter](https://raw.githubusercontent.com/thrblock/quarter/master/demo.gif)
 
+初次的几次迭代让人联想到女孩子用的粉底~
+
+那么玩得愉快！
+
 ## 操作指南
 R - 重置
 
